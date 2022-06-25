@@ -17,6 +17,7 @@ Trade-Offs:
   - Design could have been more creative to show pizza orders,
   - Pipeline service should ideally be a backend service
   - Code quality can be improved
+  - Test cases can be added
 
 I have tried to keep things simpler to complete the assignment within suitable time.
 
