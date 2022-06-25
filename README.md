@@ -8,6 +8,7 @@ The service and pipeline should ideally be on server side and client just needs 
 However, for sake of this assignment, I have mocked the pipeline service on frontend itself.
 
 Features:
+  - Dockerized React App Application
   - Orders can be added with no of toppings (just accepting no of toppings for sake of assignment)
   - A simple tabular form display to show status of each order
   - Each status updates dynamically as an when it proceeds in pipeline
