@@ -1,0 +1,10 @@
+const Config =  {
+  DOUGH: { COUNT: 2, TIME_TO_FINISH_IN_SEC: 7 },
+  TOPPING: { COUNT: 3, TIME_TO_FINISH_IN_SEC: 4 },
+  OVEN: { COUNT: 1, TIME_TO_FINISH_IN_SEC: 10 },
+  SERVER: { COUNT: 2, TIME_TO_FINISH_IN_SEC: 5 },
+
+  WORKER_LOOK_UP_INTERVAL_IN_MS: 50,
+};
+
+export default Config;
